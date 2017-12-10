@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/sudkouSolver.iml" filepath="$PROJECT_DIR$/sudkouSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sudokuSolver.iml" filepath="$PROJECT_DIR$/sudokuSolver.iml" />
     </modules>
   </component>
 </project>
